@@ -1,0 +1,19 @@
+先生成一个div
+然后用css文件
+用div上下左右四条边框border来画
+把不需要的边框弄成transparent透明的
+ <style>
+        div{
+            width: 0;
+            height: 0;
+            border-left: 100px solid #ccc;
+            border-right: 100px solid transparent;
+            border-top: 100px solid transparent;
+            border-bottom: 100px solid transparent;
+        }
+    </style>
+</head>
+<body>
+    <div class="div">
+    </div>
+</body>

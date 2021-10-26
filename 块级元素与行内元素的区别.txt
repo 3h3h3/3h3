@@ -1,0 +1,6 @@
+行内元素不会自动换行，设置宽高无效；对margin设置左右方向有效，而上下无效，padding设置都无效。
+块级元素可以自动换行，可以设置宽高；设置margin和padding都有效。
+
+display: inline; 把某元素转行内元素
+display: inline-block; 把某元素转成行内块元素
+display: block; 把某元素转成块元素

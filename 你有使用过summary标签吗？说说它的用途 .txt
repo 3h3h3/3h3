@@ -1,0 +1,2 @@
+发现summary标签和details标签是配套使用的，而且仅有Chrome和Safari 6浏览器支持。
+summary标签是作为details标签里的标题，details标签用于描述文档或文档片段的详细信息

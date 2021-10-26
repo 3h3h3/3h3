@@ -1,0 +1,2 @@
+通过文档类型声明；
+通过一些HTML5独有新标签：<date>、<email>、<url>、<video>、<section>、<canvas>等

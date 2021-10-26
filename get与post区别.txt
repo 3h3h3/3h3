@@ -1,0 +1,5 @@
+get参数通过url传递，post放在请求体（request body）中；
+get请求在url传递的参数有长度限制，而post没有；
+get比post更不安全，因为参数直接显示在url地址中，所以不能传递敏感数据；
+get请求浏览器会主动缓存，而post不会；
+get请求参数会保存在浏览历史记录，而post请求不会

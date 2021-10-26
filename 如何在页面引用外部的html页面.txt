@@ -1,0 +1,2 @@
+1.是完整的页面。拥有header，body。使用<iframe>
+2.是一个页面片段。使用get请求。或者使用<link ref="import" href="some.html">

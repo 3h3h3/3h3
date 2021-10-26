@@ -1,0 +1,4 @@
+使用绝对定位后，脱离了文档流，相对于带有定位属性的上层定位元素定位，解决方法定位位置用百分比就可以实现水平居中
+position:absolute；
+left：50%；
+transform:translate（-50%）

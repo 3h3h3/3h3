@@ -1,0 +1,10 @@
+promise 是一个 ES6 的语法，是一个专门用来解决异步 回调地狱 的问题
+简单说就是一个容器，里面保存着一个尚未完成且预计在未来完成的异步操作。
+Promise 是一个构造函数，用来创建一个Promise对象。
+Promise对象代表一个异步操作，有三种状态：
+pending（进行中）
+fulfilled（成功）
+rejected（失败）
+Promise 对象的状态改变有两种：
+从 pending 变为 fulfilled
+从 pending 变为 rejected

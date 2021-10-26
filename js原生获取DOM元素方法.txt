@@ -1,0 +1,6 @@
+document.getElementById(标签id名);
+document.getElementsByTagName(标签名);
+document.getElementsByClassName(标签类名);
+document.getElementsByName(标签的name属性的值);
+documen.querySelector(css选择器);
+documen.querySelectorAll(css选择器);

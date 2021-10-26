@@ -1,0 +1,5 @@
+创建A标签跳转
+location.href
+form submit
+<meta http-equiv="refresh" content="5;url=other.html">
+window.history

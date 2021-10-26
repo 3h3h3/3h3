@@ -1,0 +1,4 @@
+touchstart 触摸开始
+touchmove 接触点移动（手指不离开屏幕）
+touchend 触摸结束
+touchcancel 触摸被取消
